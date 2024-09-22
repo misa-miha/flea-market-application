@@ -1,0 +1,32 @@
+.header-content {
+    width: 70%;
+    display: flex;
+}
+
+.search-content {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.search-input {
+    border-radius: 5px;
+    border: none;
+    height: 30px;
+}
+
+.nav__list {
+    display: flex;
+}
+
+.nav__item {
+    margin: 10px 20px;
+    color: #fff;
+}
+
+.nav__item--sell {
+    background: #fff;
+    border-radius: 5px;
+}
